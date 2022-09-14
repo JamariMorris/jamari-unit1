@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+import AlamofireImage
 class MovieCell: UITableViewCell {
     
     @IBOutlet weak var titleLabel: UILabel!
